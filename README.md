@@ -19,7 +19,8 @@ This dataset is custom-created for analysis of lifestyle, nutrition, and fitness
 
 This dataset is used for analyzing lifestyle and nutrition patterns.
 
-🔗 [Download Dataset](https://github.com/Ashwini4197/Lifestyle-Nutrition-Dashboard/blob/main/README.md)
+🔗 [Download Dataset](https://github.com/username/repo-name/raw/main/lifestyle_nutrition_dataset.csv)
+
 
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot%202026-03-25%20214146.png)
