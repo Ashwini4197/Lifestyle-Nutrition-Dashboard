@@ -22,4 +22,4 @@ This Power BI dashboard analyzes lifestyle habits, nutrition, and food patterns.
 - Dashboard screenshots
 
 ## 🚀 Author
-Your Name
+Ashwini Pathe
