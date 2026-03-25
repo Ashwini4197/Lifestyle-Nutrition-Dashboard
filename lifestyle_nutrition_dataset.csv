@@ -1,0 +1,101 @@
+Person_ID,Gender,Age,Height_cm,Weight_kg,Activity_Level,Calories_Intake,Protein_g,Carbs_g,Fat_g,Sugar_g,Fiber_g,Breakfast,Lunch,Dinner,Price_INR,BMI,Calorie_Status
+1,Male,35,176,79,Sedentary,3164,83,224,43,73,23,Eggs & Toast,Salad Bowl,Soup,273,25.5,Above Target
+2,Female,43,162,69,Moderately Active,2581,68,295,44,24,20,Smoothie,Salad Bowl,Khichdi,190,26.29,Above Target
+3,Male,51,152,73,Lightly Active,2133,52,388,60,76,24,Eggs & Toast,Chapati & Sabzi,Grilled Chicken,271,31.6,Within Target
+4,Male,27,188,62,Very Active,2012,51,225,30,36,37,Smoothie,Chapati & Sabzi,Chapati & Curry,264,17.54,Within Target
+5,Male,53,155,90,Moderately Active,3274,134,158,83,66,22,Idli,Salad Bowl,Soup,228,37.46,Above Target
+6,Female,31,157,62,Sedentary,2301,85,223,32,42,27,Paratha,Salad Bowl,Khichdi,172,25.15,Within Target
+7,Male,48,176,46,Lightly Active,2619,41,335,45,98,35,Idli,Salad Bowl,Grilled Chicken,233,14.85,Above Target
+8,Male,32,158,98,Moderately Active,3161,74,385,116,33,15,Poha,Chicken & Rice,Chapati & Curry,260,39.26,Above Target
+9,Male,25,186,79,Lightly Active,2641,126,294,86,85,12,Eggs & Toast,Chapati & Sabzi,Soup,111,22.84,Above Target
+10,Female,31,182,60,Moderately Active,2059,120,379,104,94,28,Poha,Chicken & Rice,Chapati & Curry,81,18.11,Within Target
+11,Male,40,173,85,Lightly Active,3124,129,156,41,70,24,Paratha,Chicken & Rice,Grilled Chicken,207,28.4,Above Target
+12,Male,57,164,80,Sedentary,1987,47,323,103,57,34,Smoothie,Salad Bowl,Soup,78,29.74,Within Target
+13,Male,38,181,77,Very Active,2760,132,290,45,83,32,Paratha,Salad Bowl,Chapati & Curry,98,23.5,Above Target
+14,Male,33,181,48,Sedentary,3408,65,317,101,57,14,Oats,Rice & Dal,Khichdi,222,14.65,Above Target
+15,Female,35,173,77,Very Active,2396,113,319,105,69,37,Paratha,Rice & Dal,Soup,270,25.73,Within Target
+16,Male,41,161,58,Lightly Active,2795,129,286,53,49,19,Oats,Chicken & Rice,Chapati & Curry,79,22.38,Above Target
+17,Female,43,188,65,Moderately Active,2712,73,327,57,98,16,Paratha,Chapati & Sabzi,Grilled Chicken,193,18.39,Above Target
+18,Female,42,151,92,Sedentary,2203,144,176,37,70,34,Oats,Salad Bowl,Grilled Chicken,217,40.35,Within Target
+19,Female,58,152,64,Very Active,2970,46,271,65,82,26,Eggs & Toast,Salad Bowl,Soup,68,27.7,Above Target
+20,Male,46,186,52,Sedentary,2080,107,343,119,71,16,Poha,Chicken & Rice,Chapati & Curry,67,15.03,Within Target
+21,Female,32,166,51,Very Active,2289,97,154,37,57,31,Poha,Rice & Dal,Soup,50,18.51,Within Target
+22,Male,18,151,47,Sedentary,2360,148,178,87,98,35,Idli,Chapati & Sabzi,Soup,127,20.61,Within Target
+23,Female,42,151,61,Very Active,1746,114,314,89,49,39,Poha,Rice & Dal,Chapati & Curry,164,26.75,Within Target
+24,Female,24,177,77,Very Active,3486,68,315,79,70,21,Smoothie,Rice & Dal,Chapati & Curry,224,24.58,Above Target
+25,Female,26,172,92,Lightly Active,2599,75,232,57,24,34,Paratha,Rice & Dal,Khichdi,291,31.1,Above Target
+26,Female,41,186,56,Very Active,1653,128,285,70,48,26,Idli,Rice & Dal,Chapati & Curry,243,16.19,Within Target
+27,Female,18,181,95,Lightly Active,3179,60,389,93,23,22,Smoothie,Salad Bowl,Grilled Chicken,295,29.0,Above Target
+28,Female,25,182,66,Very Active,2958,75,258,56,29,29,Smoothie,Salad Bowl,Soup,269,19.93,Above Target
+29,Female,41,150,99,Moderately Active,2496,49,214,92,75,34,Oats,Rice & Dal,Soup,162,44.0,Within Target
+30,Female,28,168,66,Moderately Active,2609,140,235,46,36,13,Poha,Chapati & Sabzi,Grilled Chicken,163,23.38,Above Target
+31,Male,34,151,90,Moderately Active,2196,112,393,102,93,19,Eggs & Toast,Chicken & Rice,Chapati & Curry,271,39.47,Within Target
+32,Male,25,175,74,Very Active,2808,63,294,62,36,12,Eggs & Toast,Chapati & Sabzi,Grilled Chicken,215,24.16,Above Target
+33,Female,52,181,82,Lightly Active,3497,103,220,113,88,18,Idli,Chapati & Sabzi,Grilled Chicken,228,25.03,Above Target
+34,Female,52,155,82,Lightly Active,2743,138,366,106,53,22,Eggs & Toast,Chapati & Sabzi,Khichdi,112,34.13,Above Target
+35,Female,50,181,89,Very Active,2592,88,194,58,25,27,Paratha,Rice & Dal,Grilled Chicken,181,27.17,Above Target
+36,Male,22,153,95,Moderately Active,2570,138,281,42,72,24,Eggs & Toast,Salad Bowl,Soup,178,40.58,Above Target
+37,Female,59,160,98,Moderately Active,2508,75,185,75,85,13,Idli,Chapati & Sabzi,Grilled Chicken,57,38.28,Above Target
+38,Male,56,166,52,Lightly Active,1593,121,219,64,96,24,Eggs & Toast,Rice & Dal,Soup,206,18.87,Within Target
+39,Male,58,187,71,Moderately Active,3273,142,308,35,62,31,Paratha,Chapati & Sabzi,Soup,104,20.3,Above Target
+40,Male,45,173,71,Sedentary,2457,135,168,111,94,11,Oats,Chapati & Sabzi,Soup,152,23.72,Within Target
+41,Male,24,154,78,Lightly Active,2511,63,338,98,42,24,Idli,Rice & Dal,Chapati & Curry,180,32.89,Above Target
+42,Male,26,183,65,Moderately Active,1952,62,257,76,74,17,Oats,Salad Bowl,Khichdi,81,19.41,Within Target
+43,Female,25,155,74,Lightly Active,2727,101,331,54,99,17,Oats,Salad Bowl,Soup,59,30.8,Above Target
+44,Female,29,171,77,Sedentary,2411,135,316,95,94,26,Oats,Chicken & Rice,Soup,251,26.33,Within Target
+45,Female,51,160,72,Lightly Active,1717,76,240,39,35,21,Smoothie,Rice & Dal,Chapati & Curry,260,28.12,Within Target
+46,Female,50,165,91,Lightly Active,1973,51,351,85,27,28,Poha,Chicken & Rice,Soup,159,33.43,Within Target
+47,Female,40,182,77,Lightly Active,1931,94,239,59,23,19,Smoothie,Chicken & Rice,Grilled Chicken,211,23.25,Within Target
+48,Male,41,158,49,Lightly Active,1840,52,168,34,23,18,Poha,Chicken & Rice,Grilled Chicken,173,19.63,Within Target
+49,Female,54,155,92,Sedentary,2050,62,188,62,75,14,Oats,Salad Bowl,Khichdi,274,38.29,Within Target
+50,Female,52,165,63,Very Active,3135,128,275,94,44,15,Idli,Rice & Dal,Soup,136,23.14,Above Target
+51,Male,57,178,48,Lightly Active,2812,138,344,47,86,29,Poha,Chicken & Rice,Chapati & Curry,104,15.15,Above Target
+52,Female,39,152,79,Lightly Active,2777,144,322,78,86,35,Paratha,Rice & Dal,Grilled Chicken,269,34.19,Above Target
+53,Male,44,169,93,Moderately Active,3257,69,290,40,46,11,Paratha,Rice & Dal,Chapati & Curry,81,32.56,Above Target
+54,Female,52,185,61,Lightly Active,1856,56,391,114,51,36,Eggs & Toast,Salad Bowl,Chapati & Curry,227,17.82,Within Target
+55,Male,18,168,88,Moderately Active,1522,101,369,55,69,33,Poha,Chicken & Rice,Grilled Chicken,184,31.18,Within Target
+56,Female,52,175,72,Very Active,3285,123,275,92,80,36,Idli,Chicken & Rice,Chapati & Curry,142,23.51,Above Target
+57,Female,54,152,74,Sedentary,2021,128,207,118,70,22,Smoothie,Rice & Dal,Grilled Chicken,57,32.03,Within Target
+58,Male,31,168,73,Sedentary,3281,125,297,115,38,15,Oats,Chapati & Sabzi,Chapati & Curry,114,25.86,Above Target
+59,Male,20,169,90,Very Active,3360,52,369,88,40,14,Eggs & Toast,Salad Bowl,Grilled Chicken,106,31.51,Above Target
+60,Male,18,181,97,Sedentary,2623,98,349,56,24,34,Paratha,Salad Bowl,Soup,296,29.61,Above Target
+61,Male,22,156,50,Very Active,2301,58,210,78,61,10,Smoothie,Salad Bowl,Khichdi,116,20.55,Within Target
+62,Male,43,182,79,Very Active,2703,88,276,106,80,30,Smoothie,Salad Bowl,Grilled Chicken,265,23.85,Above Target
+63,Male,31,189,85,Very Active,2746,139,254,62,41,31,Oats,Chicken & Rice,Grilled Chicken,264,23.8,Above Target
+64,Male,56,188,81,Sedentary,3429,51,316,30,40,30,Poha,Chicken & Rice,Khichdi,236,22.92,Above Target
+65,Male,44,167,68,Moderately Active,2261,100,150,50,89,15,Paratha,Chapati & Sabzi,Grilled Chicken,121,24.38,Within Target
+66,Female,26,189,73,Very Active,3182,144,280,84,20,15,Idli,Salad Bowl,Grilled Chicken,103,20.44,Above Target
+67,Female,32,150,93,Lightly Active,1941,58,354,35,24,32,Smoothie,Salad Bowl,Chapati & Curry,298,41.33,Within Target
+68,Male,32,160,90,Sedentary,3131,115,241,110,31,25,Oats,Rice & Dal,Khichdi,288,35.16,Above Target
+69,Female,43,177,97,Very Active,2268,48,339,98,65,13,Idli,Chicken & Rice,Soup,278,30.96,Within Target
+70,Female,59,174,75,Very Active,2515,110,398,34,53,39,Poha,Salad Bowl,Grilled Chicken,116,24.77,Above Target
+71,Female,30,172,79,Lightly Active,2848,67,340,32,68,20,Paratha,Chapati & Sabzi,Khichdi,100,26.7,Above Target
+72,Female,49,180,77,Moderately Active,2015,117,262,82,97,39,Poha,Chapati & Sabzi,Chapati & Curry,146,23.77,Within Target
+73,Male,56,179,96,Moderately Active,2539,134,302,52,64,39,Smoothie,Chicken & Rice,Soup,141,29.96,Above Target
+74,Female,49,184,65,Moderately Active,2291,91,205,82,46,39,Idli,Chapati & Sabzi,Khichdi,288,19.2,Within Target
+75,Male,21,156,76,Very Active,1835,122,310,66,92,33,Idli,Chapati & Sabzi,Soup,57,31.23,Within Target
+76,Female,47,165,67,Very Active,3282,55,315,103,45,32,Idli,Chicken & Rice,Soup,211,24.61,Above Target
+77,Female,54,175,77,Very Active,1757,108,266,103,66,18,Smoothie,Salad Bowl,Soup,84,25.14,Within Target
+78,Female,40,151,47,Sedentary,1996,138,283,112,75,32,Smoothie,Salad Bowl,Grilled Chicken,145,20.61,Within Target
+79,Male,56,150,62,Lightly Active,2395,51,207,46,82,12,Poha,Chapati & Sabzi,Grilled Chicken,137,27.56,Within Target
+80,Female,32,161,69,Very Active,1659,64,193,114,67,28,Eggs & Toast,Chapati & Sabzi,Chapati & Curry,127,26.62,Within Target
+81,Male,46,154,86,Lightly Active,2998,91,322,107,80,17,Poha,Salad Bowl,Chapati & Curry,81,36.26,Above Target
+82,Female,53,186,75,Lightly Active,2351,124,309,102,45,14,Paratha,Chicken & Rice,Khichdi,169,21.68,Within Target
+83,Male,30,181,98,Moderately Active,3187,139,322,30,55,13,Oats,Chapati & Sabzi,Chapati & Curry,95,29.91,Above Target
+84,Female,49,158,47,Sedentary,3431,92,210,80,20,33,Idli,Rice & Dal,Soup,284,18.83,Above Target
+85,Male,24,184,84,Very Active,2189,62,196,74,27,15,Eggs & Toast,Chicken & Rice,Soup,193,24.81,Within Target
+86,Male,39,168,90,Moderately Active,3198,55,298,106,71,11,Oats,Chapati & Sabzi,Grilled Chicken,245,31.89,Above Target
+87,Female,45,165,68,Moderately Active,1879,96,229,33,98,29,Eggs & Toast,Chapati & Sabzi,Soup,293,24.98,Within Target
+88,Male,19,152,94,Very Active,3068,78,267,91,66,37,Poha,Rice & Dal,Khichdi,214,40.69,Above Target
+89,Female,59,169,76,Lightly Active,3452,148,362,94,75,20,Smoothie,Rice & Dal,Soup,231,26.61,Above Target
+90,Female,23,173,91,Moderately Active,2456,92,352,61,33,13,Idli,Salad Bowl,Soup,262,30.41,Within Target
+91,Female,45,182,66,Lightly Active,2190,81,378,63,47,24,Poha,Chicken & Rice,Khichdi,191,19.93,Within Target
+92,Female,45,173,67,Sedentary,2950,97,313,101,97,15,Oats,Chicken & Rice,Chapati & Curry,272,22.39,Above Target
+93,Female,37,160,46,Lightly Active,3136,78,376,68,21,31,Oats,Salad Bowl,Chapati & Curry,104,17.97,Above Target
+94,Female,47,157,71,Sedentary,2791,53,296,55,45,26,Oats,Chicken & Rice,Khichdi,225,28.8,Above Target
+95,Female,28,185,86,Lightly Active,3358,134,169,63,33,39,Oats,Chicken & Rice,Grilled Chicken,259,25.13,Above Target
+96,Female,45,187,46,Moderately Active,3100,44,334,83,78,33,Oats,Chicken & Rice,Soup,56,13.15,Above Target
+97,Female,42,189,70,Moderately Active,2940,74,295,32,75,15,Eggs & Toast,Chicken & Rice,Khichdi,123,19.6,Above Target
+98,Female,56,169,61,Sedentary,2691,126,196,79,26,28,Poha,Chicken & Rice,Soup,56,21.36,Above Target
+99,Female,50,184,84,Very Active,3365,132,382,41,22,39,Idli,Rice & Dal,Grilled Chicken,210,24.81,Above Target
+100,Male,18,174,77,Sedentary,2566,146,198,94,42,34,Smoothie,Chicken & Rice,Soup,200,25.43,Above Target
