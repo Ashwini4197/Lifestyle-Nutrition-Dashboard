@@ -15,6 +15,11 @@ This Power BI dashboard analyzes lifestyle habits, nutrition, and food patterns.
 
 ## 📂 Dataset
 This dataset is custom-created for analysis of lifestyle, nutrition, and fitness patterns.
+## 📂 Dataset
+
+This dataset is used for analyzing lifestyle and nutrition patterns.
+
+🔗 [Download Dataset](https://github.com/Ashwini4197/Lifestyle-Nutrition-Dashboard/blob/main/README.md)
 
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot%202026-03-25%20214146.png)
